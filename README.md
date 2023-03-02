@@ -1,3 +1,3 @@
 # HelloFromCSharp
 
-Console Application C#
+Console Application in C#
