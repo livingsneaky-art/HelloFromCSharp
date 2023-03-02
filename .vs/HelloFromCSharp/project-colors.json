@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "18969920-204e-4567-967e-8a9d0035c6b7": {
+      "ProjectGuid": "18969920-204e-4567-967e-8a9d0035c6b7",
+      "DisplayName": "HelloFromCSharp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
